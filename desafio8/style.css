@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 1.09em;
+	font-family: 'Merriweather', serif;
+	font-weight: 900;
+	color: #8B0000;
+}
+
+.tudo {
+	background:url(./img/lembrancas.jpg) center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	border:3px solid blue;
